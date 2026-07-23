@@ -1,0 +1,3 @@
+braille_block_A
+braille_block_B
+bollard_A
